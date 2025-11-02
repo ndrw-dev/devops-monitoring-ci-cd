@@ -96,3 +96,8 @@ A fully automated DevOps workflow:
 - Code changes → automatically built and deployed.
 - Metrics → continuously monitored with alerts and dashboards.
 - All services run inside a local Linux VM.
+
+![View Stage - Jenkins Pipeline](https://media.discordapp.net/attachments/1331318634294808711/1434454952968716388/JenkinsPipeline_ViewStage.png?ex=690863c7&is=69071247&hm=7b4ba4d2f7b96d8a0f6c04b6925ca4840ad11431d6fc35f19348e6784b1db81c&=&format=webp&quality=lossless&width=1557&height=728)
+
+![Result on Grafana](https://media.discordapp.net/attachments/1331318634294808711/1434454949546295376/ResultOnGrafana.png?ex=690863c6&is=69071246&hm=220812065083fd9f8b3878fe5af50d4dad31a77674010625b1d5d0e856a77cba&=&format=webp&quality=lossless&width=1557&height=776)
+
